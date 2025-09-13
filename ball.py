@@ -28,7 +28,7 @@ class Ball(Turtle):
 
     def bounce_x(self):
         self.x_move *= -1
-        self.move_speed *= 1 # optional, makes ball speed up
+        self.move_speed *= 0.9 # optional, makes ball speed up
 
         
 
