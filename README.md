@@ -44,7 +44,7 @@ First player to reach the winning score (default = 10) wins the game.
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/pong-game.git
+   git clone https://github.com/martialchess/pong-game.git
 2. Run the game:
    python main.py
 
